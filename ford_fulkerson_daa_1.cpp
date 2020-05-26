@@ -1,8 +1,5 @@
 /*!
- * \author Himanshu Sharma (2016B5A70886H)
  * \author Juhi Mittal (2016B3A70298H)
- * \author Drishti Mamtani (2016B5A70574H)
- * \author Pulkit Porwal (2016AAPS0221H)
  * \date 16-04-2020
  * \mainpage  Assignment -2 DAA
  * \Section A Implementation of ford fulkerson algorithm for network flow determination
